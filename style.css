@@ -1,0 +1,15 @@
+@font-face{
+    font-family:"Barlow Regular";
+    src:url("../fonts/Barlow-Regular.ttf");
+}
+
+@font-face{
+    font-family:"Barlow Semibold";
+    src:url("../fonts/Barlow-SemiBold.ttf");
+}
+
+html, body{
+    font-family: "Barlow Regular";
+    width: 100%;
+    background-color: rgb(16, 25, 30);
+}
